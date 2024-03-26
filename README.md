@@ -3,7 +3,7 @@
 
 Mod Assistant is a PC mod installer for Beat Saber. It uses mods from [BeatMods](https://beatmods.com/).
 
-! Now Supporting All Version of Beat Saber !
+**! Now Supporting All Version of Beat Saber !**
 
 * [Features](#Features)
 * [Usage](#Usage)
